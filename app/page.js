@@ -10,7 +10,11 @@ export default function Home() {
         <div className='headshot'><img src='/assests/aboutmevector.png'/></div>
         <div className='aboutmedes'>
           <div className='aboutmeheading'>Hi, I am Alexen Kavalam</div>
-          <div className='aboutmecontent'>I am an Advocate and Real Estate Broker who will find you the ideal property in and around Kottayam and Changancherry.</div>
+          <div className='aboutmecontent'>
+            I am an Advocate and Real Estate Broker 
+            who will find you the ideal property in and around Kottayam and Changancherry.
+            Contact me for houses with best location and view and the best prices.
+          </div>
         </div>
       </div>
     </main>
