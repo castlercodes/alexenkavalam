@@ -15,6 +15,13 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <div className='communication'>
+        <div className='floatingcard'>
+          <div className='contacttitle'>Contact Me</div>
+          <div>Mobile Number: 9446392308</div>
+          <div>Whatsapp Number: 9446392308</div>
+        </div>
+      </div>
     </main>
   )
 }
