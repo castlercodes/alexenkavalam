@@ -11,9 +11,7 @@ export default function Home() {
         <div className='aboutmedes'>
           <div className='aboutmeheading'>Hi, I am Alexen Kavalam</div>
           <div className='aboutmecontent'>
-            I am an Advocate and Real Estate Broker 
-            who will find you the ideal property in and around Kottayam and Changancherry.
-            Contact me for houses with best location and view and the best prices.
+            As an experienced Advocate and Real Estate Broker, I specialize in connecting you with the finest properties in Kottayam and Changancherry. Whether you desire a home with a prime location, stunning views, or competitive prices, I'm here to make your real estate dreams come true. Contact me today to embark on your property journey and uncover the best real estate options in Kottayam and Changancherry.
           </div>
         </div>
       </div>
